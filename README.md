@@ -7,3 +7,4 @@ O pacote [pint](https://pint.readthedocs.io/en/stable/) permite trabalhar com qu
 Para ter uma melhor experiência e já ter todos os pacotes necessários para replicar o material deste repositório, clone o repositório e crie um ambiente virtual com o comando `pipenv install`. Obviamente, o gerenciador [pipenv](https://github.com/pypa/pipenv) precisa estar instalado.
 
 - [Notebook](https://github.com/Ciencia-Programada/pint-examples/blob/master/pint_introducao.ipynb) referente ao artigo [Python, unidades e cerveja(?!): o pacote pint](https://cienciaprogramada.com.br/2020/09/python-unidades-cerveja-pint/)
+- [Notebook](https://github.com/Ciencia-Programada/pint-examples/blob/master/pint_graficos.ipynb) referente ao artigo [Gráficos com unidades em Python: pint e matplotlib](https://cienciaprogramada.com.br/2020/09/graficos-python-pint-matplotlib/)
